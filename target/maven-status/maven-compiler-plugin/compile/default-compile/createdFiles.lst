@@ -1,0 +1,12 @@
+ru\zotov\Main.class
+ru\zotov\dao\repository\EmployeeRepository.class
+ru\zotov\service\EmployeeService.class
+ru\zotov\dao\repository\Repository.class
+ru\zotov\dao\util\HibernateUtil.class
+ru\zotov\dao\model\Employee.class
+ru\zotov\dao\model\Customer.class
+ru\zotov\dao\model\Project.class
+ru\zotov\dao\model\Position.class
+ru\zotov\dao\properties\DataBaseProperties.class
+ru\zotov\web\EmployeeController.class
+ru\zotov\dao\DataBaseConnector.class
